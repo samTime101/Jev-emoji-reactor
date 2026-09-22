@@ -1,0 +1,38 @@
+.app {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.card {
+  width: 500px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+  background: grey;
+
+}
+
+.result {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.emoji {
+  font-size: 60px;
+}
+
+.error {
+  margin-top: 20px;
+  color: red;
+}
